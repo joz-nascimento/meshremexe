@@ -9,4 +9,4 @@ Para extrair o arquivo DSF para txt é necessário o XGrinder, que faz parte do 
 http://developer.x-plane.com/tools/xptools/
 Plugin para Sketchup: http://marginal.org.uk/x-planescenery/tools.html
 
-Este programa 
+Este programa é distribuído obedecendo a GNU GENERAL PUBLIC LICENSE.
